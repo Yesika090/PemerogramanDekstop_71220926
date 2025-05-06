@@ -1,0 +1,13 @@
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.exe.config
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.pdb
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.AssemblyReference.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.SuggestedBindingRedirects.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.Form1.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.Resources.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.GenerateResource.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.CoreCompileInputs.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.pdb
